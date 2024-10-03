@@ -105,7 +105,7 @@ const config: Config = {
           items: [
             {
               label: 'Safkaal Wiki',
-              to: '/docs/intro',
+              to: '/docs/safKaalWiki/',
             },
           ],
         },
