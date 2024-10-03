@@ -8,15 +8,15 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://aethar01.github.io',
+  url: 'https://Lamb-in-the-Ether.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Lamb-in-the-Ether/',
+  baseUrl: '/home/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Aethar01', // Usually your GitHub org/user name.
-  projectName: 'Lamb-in-the-Ether', // Usually your repo name.
+  organizationName: 'Lamb-in-the-Ether', // Usually your GitHub org/user name.
+  projectName: 'home', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -112,7 +112,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/Aethar01/',
+              href: 'https://github.com/Lamb-in-the-Ether',
             },
           ],
         },
