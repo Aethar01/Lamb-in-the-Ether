@@ -1,0 +1,14 @@
+Bastion:
+  label: Bastion
+  permalink: /bastion
+  description: Bastion is a tag for the Bastion project
+
+wizardPolitics:
+  label: Wizard Politics
+  permalink: /wizard-politics
+  description: Wizard Politics is a tag for the Wizard Politics project
+
+misc:
+  label: Misc
+  permalink: /misc
+  description: Misc is a tag for the miscellaneous blog posts

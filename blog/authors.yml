@@ -1,0 +1,13 @@
+elliott:
+  name: Elliott Ashby
+  title: Creator of SafKaal and co-founder of Lamb in the Ether
+  url: https://github.com/Aethar01
+  image_url: https://github.com/Aethar01.png
+  page: true
+  socials:
+    github: Aethar01
+
+dan:
+  name: Dan Hayes
+  title: Co-founder of Lamb in the Ether
+  page: true
