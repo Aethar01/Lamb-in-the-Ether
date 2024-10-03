@@ -1,2 +1,0 @@
-# Tavatimsa
-![Tavatimsa](./Tavatimsa.jpeg)

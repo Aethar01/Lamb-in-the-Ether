@@ -1,2 +1,0 @@
-# Adisa
-### Goddess of Atonement

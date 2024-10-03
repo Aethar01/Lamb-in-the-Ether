@@ -5,4 +5,5 @@ authors: elliott
 tags: [misc]
 ---
 
+<!-- truncate -->
 This is the test blog post

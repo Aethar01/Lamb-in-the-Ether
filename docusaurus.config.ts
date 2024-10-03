@@ -56,7 +56,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/LambintheEther.jpg',
     navbar: {
       title: 'Lamb in the Ether',
       logo: {
@@ -66,14 +66,33 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'wikiSidebar',
+          sidebarId: 'safKaalWikiSidebar',
           position: 'left',
           label: 'SafKaal Wiki',
         },
+        {
+            type: 'dropdown',
+            label: 'Projects',
+            position: 'left',
+            items: [
+              {
+                label: 'Bastion',
+                to: '/docs/bastion/',
+              },
+              {
+                label: 'Wizard Politics',
+                to: '/docs/wizardPolitics/',
+              },
+              {
+                label: 'Project D',
+                to: '/docs/projectD/',
+              }
+            ],
+        },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://lamb-in-the-ether.itch.io/',
+          label: 'itch',
           position: 'right',
         },
       ],
@@ -85,7 +104,7 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Wiki',
+              label: 'Safkaal Wiki',
               to: '/docs/intro',
             },
           ],
@@ -114,6 +133,14 @@ const config: Config = {
               label: 'GitHub',
               href: 'https://github.com/Lamb-in-the-Ether',
             },
+            {
+                label: 'itch',
+                href: 'https://lamb-in-the-ether.itch.io/',
+            },
+            {
+                label: 'About Us',
+                to: '/docs/aboutus',
+            }
           ],
         },
       ],
