@@ -61,7 +61,7 @@ const config: Config = {
       title: 'Lamb in the Ether',
       logo: {
         alt: 'Akaron, a star of Arth\'Galad',
-        src: 'img/sun-logo.svg',
+        src: 'img/lamb.svg',
       },
       items: [
         {
