@@ -32,7 +32,7 @@ export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
+      title={`Home`}
       description="Lamb in the Ether is creating TTRPGs">
       <HomepageHeader />
       <main>
